@@ -1,0 +1,13 @@
+body {
+    margin: 0;
+    height: 100vh;
+}
+
+#fieldContainer {
+    height: 100%;
+}
+
+#field {
+    height: 100%;
+    width: 100%;
+}
